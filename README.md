@@ -88,8 +88,8 @@ D3SK3 - MCQ3-4
 Post-layout simulation is done with the exact stimulus that was given to pre-layout spice network.
 
 D3SK3 - MCQ5
-![](day-3/23.PNG)
 ![](day-3/24.PNG)
+![](day-3/23.PNG)
 ![](day-3/27.PNG)
 ![](day-3/28.PNG)
 
