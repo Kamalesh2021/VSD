@@ -1,4 +1,4 @@
-#DAY-1: Study and review various components of RISC-V based picoSoC
+# DAY-1: Study and review various components of RISC-V based picoSoC
 1. IC design component terminology
 2. Introduction to RISC-V
 3. RIC-V based SoC reference design
