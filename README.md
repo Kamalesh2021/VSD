@@ -102,6 +102,8 @@ D3SK3 - MCQ5
 
 Lab Activities on Day-4:
 
+In NGspice model input rise slew and output rise delay with capacitive load 10pF and 20pF are measured.
+
 D4SK1 - MCQ6
 ![](day-4/1.PNG)
 D4SK1 - MCQ7
@@ -112,16 +114,22 @@ D4SK1 - MCQ8
 ![](day-4/5.PNG)
 ![](day-4/6.PNG)
 
+Different timing parameters for 180 nm technology is observed from the given library
+
 D4SK2 - MCQ7-10
 ![](day-4/7.PNG)
 ![](day-4/8.PNG)
 ![](day-4/9.PNG)
 ![](day-4/10.PNG)
 
+Timing analysis with ideal clock is carried out
+
 D4SK2 - MCQ11
 ![](day-4/11.PNG)
 D4SK2 - MCQ12-13
 ![](day-4/12.PNG)
+
+Timing analysis with real clock
 
 D4SK4 - MCQ2-4
 ![](day-4/13.PNG)
@@ -134,7 +142,9 @@ D4SK4 - MCQ5
 
 Lab Activities on Day-5:
 
-D5SK2 - MCQ1-3
+Routing is done in Qflow manager and then we compare pre-layout and post-layout frequencies and it is found that there is a drop of frequency for post-layout due to parasitics 
+
+D5SK1 - MCQ1-3
 ![](day-5/1.PNG)
 ![](day-5/2.PNG)
 ![](day-5/3.PNG)
