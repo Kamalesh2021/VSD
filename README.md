@@ -21,7 +21,7 @@ D1SK4 - MCQ8
 
 
 # DAY-2: Chip planning strategies and introduction to foundry library cells
-1.Chip floor planning consideration
+1. Chip floor planning consideration
 2. Library Binding and placement
 3. Cell design and characterization flow
 4. General timing characterization parameters
