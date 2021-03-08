@@ -5,6 +5,7 @@
 4. Introduction to open source EDA tools
 
 Lab Activities on Day-1:
+
 D1SK4-MCQ5 
 ![](1.PNG)
 D1SK4 - MCQ6
@@ -27,6 +28,7 @@ D1SK4 - MCQ8
 4. General timing characterization parameters
 
 Lab Activities on Day-2:
+
 D2SK4 - MCQ5
 ![](day-2/1.PNG)
 ![](day-2/2.PNG)
