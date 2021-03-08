@@ -6,3 +6,6 @@
 
 Lab Activities on Day-1:
 D1SK4-MCQ5 
+![](1.PNG)
+D1SK4 - MCQ6
+![](5.PNG)
