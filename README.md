@@ -70,7 +70,16 @@ D3SK2 - MCQ1-3
 ![](day-3/18.PNG)
 ![](day-3/19.PNG)
 
-D3SK3 - MCQ3
+D3SK3 - MCQ3-4
 ![](day-3/20.PNG)
 ![](day-3/22.PNG)
+
+D3SK3 - MCQ5
+![](day-3/23.PNG)
+![](day-3/24.PNG)
+![](day-3/27.PNG)
+![](day-3/28.PNG)
+
+
+
 
