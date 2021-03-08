@@ -91,7 +91,7 @@ D3SK3 - MCQ5
 Lab Activities on Day-4:
 
 D4SK1 - MCQ6
-
+![](day-4/1.PNG)
 
 
 
