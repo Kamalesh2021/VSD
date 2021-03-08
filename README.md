@@ -21,10 +21,10 @@ D1SK4 - MCQ8
 
 
 # DAY-2: Chip planning strategies and introduction to foundry library cells
-1. 1.Chip floor planning consideration
-2. 2. Library Binding and placement
-3. 3. Cell design and characterization flow
-4. 4. General timing characterization parameters
+1.Chip floor planning consideration
+2. Library Binding and placement
+3. Cell design and characterization flow
+4. General timing characterization parameters
 
 Lab Activities on Day-2:
 D2SK4 - MCQ5
@@ -36,3 +36,12 @@ D2SK4 - MCQ5
 ![](day-2/6.PNG)
 ![](day-2/7.PNG)
 ![](day-2/8.PNG)
+
+# Day-3: Design and characterize one library cell using Magic Layout tool and ngspice
+1. Labs for CMOS Inverter NGSPICE simulation
+2. Euler's Path and Stick diagram for layout
+3. Magic and post layout simulation
+4. Inception of layout- CMOS fabrication model
+
+Lab Activities on Day-3:
+
