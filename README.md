@@ -6,4 +6,3 @@
 
 Lab Activities on Day-1:
 D1SK4-MCQ5 
-https://github.com/Kamalesh2021/VSD/blob/main/1.PNG
