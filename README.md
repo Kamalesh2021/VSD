@@ -6,7 +6,7 @@
 
 Lab Activities on Day-1:
 
-First required files are downloaded and then in Qflow manager gui preparation and synthesis for backend synthesis flow is done.
+First required files are downloaded and then in Qflow manager gui, circuit preparation and synthesis for backend synthesis flow is done.
 
 D1SK4-MCQ5 
 ![](1.PNG)
@@ -51,7 +51,7 @@ D2SK4 - MCQ5
 
 Lab Activities on Day-3:
 
-
+Using NGspice simulator, CMOS inverter is created and input and output characteristics are studied. Also by varying channel width of PMOS, better switching threshold is obtained.
 
 D3SK1 - MCQ5-7  
 ![](day-3/1.PNG)
@@ -73,6 +73,8 @@ D3SK1 - MCQ11
 ![](day-3/14.PNG)
 ![](day-3/15.PNG)
 
+Prelayout simulation is carried out and then using Euler's path and stick diagram Layout has been done. 
+
 D3SK2 - MCQ1-3
 ![](day-3/16.PNG)
 ![](day-3/17.PNG)
@@ -82,6 +84,8 @@ D3SK2 - MCQ1-3
 D3SK3 - MCQ3-4
 ![](day-3/20.PNG)
 ![](day-3/22.PNG)
+
+Post-layout simulation is done with the exact stimulus that was given to pre-layout spice network.
 
 D3SK3 - MCQ5
 ![](day-3/23.PNG)
