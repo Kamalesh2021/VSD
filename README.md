@@ -44,6 +44,7 @@ D2SK4 - MCQ5
 4. Inception of layout- CMOS fabrication model
 
 Lab Activities on Day-3:
+
 D3SK1 - MCQ5-7  
 ![](day-3/1.PNG)
 D3SK1 - MCQ8-9
@@ -79,6 +80,19 @@ D3SK3 - MCQ5
 ![](day-3/24.PNG)
 ![](day-3/27.PNG)
 ![](day-3/28.PNG)
+
+
+# Day-4 Pre-layout timing analysis and importance of good clock tree
+1. Timing modelling using Delay table
+2. Timing analysis using ideal clock
+3. Clock tree synthesis and signal Integrity
+4. Timing analysis with real clocks
+
+Lab Activities on Day-4:
+
+D4SK1 - MCQ6
+
+
 
 
 
