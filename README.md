@@ -142,7 +142,7 @@ D4SK4 - MCQ5
 
 Lab Activities on Day-5:
 
-Routing is done in Qflow manager and then we compare pre-layout and post-layout frequencies and it is found that there is a drop of frequency for post-layout due to parasitics 
+Routing is done in Qflow manager and then we compare pre-layout and post-layout frequencies and it is found that there is a drop of frequency for post-layout due to parasitics. 
 
 D5SK1 - MCQ1-3
 ![](day-5/1.PNG)
