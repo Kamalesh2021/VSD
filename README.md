@@ -100,6 +100,22 @@ D4SK1 - MCQ8
 ![](day-4/5.PNG)
 ![](day-4/6.PNG)
 
+D4SK2 - MCQ7-10
+![](day-4/7.PNG)
+![](day-4/8.PNG)
+![](day-4/9.PNG)
+![](day-4/10.PNG)
+
+D4SK2 - MCQ11
+![](day-4/11.PNG)
+D4SK2 - MCQ12-13
+![](day-4/12.PNG)
+
+D4SK4 - MCQ2-4
+![](day-4/13.PNG)
+D4SK4 - MCQ5
+![](day-4/13.PNG)
+
 
 
 
