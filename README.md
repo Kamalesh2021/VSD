@@ -44,4 +44,6 @@ D2SK4 - MCQ5
 4. Inception of layout- CMOS fabrication model
 
 Lab Activities on Day-3:
+D3SK1 - MCQ6
+![](day-3/1.PNG)
 
