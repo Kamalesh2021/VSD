@@ -62,6 +62,13 @@ D3SK1 - MCQ11
 ![](day-3/12.PNG)
 ![](day-3/13.PNG)
 ![](day-3/14.PNG)
+![](day-3/15.PNG)
+
+D3SK2 - MCQ1
+![](day-3/16.PNG)
+![](day-3/17.PNG)
+![](day-3/18.PNG)
+![](day-3/19.PNG)
 
 
 
