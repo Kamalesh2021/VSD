@@ -116,6 +116,18 @@ D4SK4 - MCQ2-4
 D4SK4 - MCQ5
 ![](day-4/13.PNG)
 
+# Day-5: Final steps for RTL2GDS
+1. Routing and DRC (Design Rule Check)
+2. PNR Interactive Flow Tutorial
+
+Lab Activities on Day-5:
+
+D5SK2 - MCQ1-3
+![](day-5/1.PNG)
+![](day-5/2.PNG)
+![](day-5/3.PNG)
+![](day-5/4.PNG)
+
 
 
 
