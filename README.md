@@ -28,3 +28,11 @@ D1SK4 - MCQ8
 
 Lab Activities on Day-2:
 D2SK4 - MCQ5
+![](day-2/1.PNG)
+![](day-2/2.PNG)
+![](day-2/3.PNG)
+![](day-2/4.PNG)
+![](day-2/5.PNG)
+![](day-2/6.PNG)
+![](day-2/7.PNG)
+![](day-2/8.PNG)
