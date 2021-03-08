@@ -102,7 +102,7 @@ D3SK3 - MCQ5
 
 Lab Activities on Day-4:
 
-In NGspice model input rise slew and output rise delay with capacitive load 10pF and 20pF are measured.
+In NGspice model input rise slew and output rise delay with capacitive load 10fF and 20fF are measured.
 
 D4SK1 - MCQ6
 ![](day-4/1.PNG)
