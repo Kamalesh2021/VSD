@@ -27,3 +27,4 @@ D1SK4 - MCQ8
 4. 4. General timing characterization parameters
 
 Lab Activities on Day-2:
+D2SK4 - MCQ5
