@@ -92,8 +92,13 @@ Lab Activities on Day-4:
 
 D4SK1 - MCQ6
 ![](day-4/1.PNG)
-
-
+D4SK1 - MCQ7
+![](day-4/1.PNG)
+D4SK1 - MCQ8
+![](day-4/3.PNG)
+![](day-4/4.PNG)
+![](day-4/5.PNG)
+![](day-4/6.PNG)
 
 
 
