@@ -6,6 +6,8 @@
 
 Lab Activities on Day-1:
 
+First required files are downloaded and then in Qflow manager gui preparation and synthesis for backend synthesis flow is done.
+
 D1SK4-MCQ5 
 ![](1.PNG)
 D1SK4 - MCQ6
@@ -29,6 +31,8 @@ D1SK4 - MCQ8
 
 Lab Activities on Day-2:
 
+Whole chip area is measured in Layout and tckon window
+
 D2SK4 - MCQ5
 ![](day-2/1.PNG)
 ![](day-2/2.PNG)
@@ -46,6 +50,8 @@ D2SK4 - MCQ5
 4. Inception of layout- CMOS fabrication model
 
 Lab Activities on Day-3:
+
+
 
 D3SK1 - MCQ5-7  
 ![](day-3/1.PNG)
