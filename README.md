@@ -9,3 +9,7 @@ D1SK4-MCQ5
 ![](1.PNG)
 D1SK4 - MCQ6
 ![](5.PNG)
+D1SK4 - MCQ7
+![](8.PNG)
+![](9.PNG)
+![](10.PNG)
