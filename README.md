@@ -13,8 +13,17 @@ D1SK4 - MCQ7
 ![](8.PNG)
 ![](9.PNG)
 ![](10.PNG)
-D1SK4 - MCQ7
+D1SK4 - MCQ8
 ![](12.PNG)
 ![](13.PNG)
 ![](14.PNG)
 ![](15.PNG)
+
+
+# DAY-2: Chip planning strategies and introduction to foundry library cells
+1. 1.Chip floor planning consideration
+2. 2. Library Binding and placement
+3. 3. Cell design and characterization flow
+4. 4. General timing characterization parameters
+
+Lab Activities on Day-2:
