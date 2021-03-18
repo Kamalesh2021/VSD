@@ -4,11 +4,11 @@
 3. RIC-V based SoC reference design
 4. Introduction to open source EDA tools
 
-     Here we lstudied design of QFN-48, which stands for Quad Flat No leads with 48 ports and dimension- 7nm*7nm
+     Here we studied design of QFN-48, which stands for Quad Flat No leads with 48 ports and dimension of 7nm*7nm.
 Using RISC-V architecture and then HDL (Hardware Description Language) specifications incorporated in assembly language is implemented in layout to realise the hardware.
 
      Different open source EDA tools are available for IC design and simulation.
-Virtual Box is needed to install Linux OS on Windows so that you can install all these necessary Open Source EDA tools
+Virtual Box is needed to install Linux OS on Windows so that you can install all these necessary Open Source EDA tools.
 1. Logic Synthesis - Yosys Open Synthesis Suite 
 2. Floorplanning and Placement - Graywolf
 3. CTS (Clock Tree Synthesis) -  Graywolf
@@ -44,7 +44,7 @@ D1SK4 - MCQ8
 3. Cell design and characterization flow
 4. General timing characterization parameters
 
-     Physial design includes  dimensions of core and die, floorplanning (arrangement of the IPs) and also the electrical aspets like effetof decopling capacitors, power planning (to use multiple Vss and Vdd in a mesh to provide required power/voltage). Apart from these Pin placement and logical cell placement blockage, Netlist binding and initial place design, final placement optimization, Need for libraries and characterization, Circuit design step, layout design step, typical characterization flow, timing threshold definitions, propogation delay and transition time etc. are also briefly studied.
+     Physial design includes  dimensions of core and die, floorplanning (arrangement of the IPs) and also the electrical aspects like effect of decopling capacitors, power planning (to use multiple Vss and Vdd in a mesh to provide required power/voltage). Apart from these pin placement and logical cell placement blockage, Netlist binding and initial place design, final placement optimization, Need for libraries and characterization, Circuit design step, layout design step, typical characterization flow, timing threshold definitions, propogation delay and transition time etc. are also briefly studied.
 
 Lab Activities on Day-2:
 
@@ -66,13 +66,13 @@ D2SK4 - MCQ5
 3. Magic and post layout simulation
 4. Inception of layout- CMOS fabrication model
 
-Modelling of PMOS and NMOS for a CMOS inverter using NGSPICE is disussed where output for different values of width to length ratio of channel and load capacitance
-were studied. Layout with only stick diagram leads to inefficient routing and may cause violation of DRC rules. So euler's path is used along with stick diagram for effiient layout. Concepts regarding cript to create layout in Magic ,final layout and input/output labelling and post layout ngspice simulation are also discussed briefly.
-In this day of workshop different aspects of CMOS fabrication models i.e.  formation of N well and P well, formation of gate terminal, lightly doped drain (LDD) formation, source drain formation, local interconnect formation, higher level metal formation etc are also been incorporated for better understanding.
+    Modelling of PMOS and NMOS for a CMOS inverter using NGSPICE is disussed where output for different values of width to length ratio of channel and load capacitance
+were analysed. Layout with only stick diagram leads to inefficient routing and may cause violation of DRC rules. So euler's path is used along with stick diagram for efficient layout. Concepts regarding script to create layout in Magic, final layout and input/output labelling and post layout ngspice simulation are also discussed briefly.
+In this day of workshop different aspects of CMOS fabrication models i.e. formation of N well and P well, formation of gate terminal, lightly doped drain (LDD) formation, source drain formation, local interconnect formation, higher level metal formation etc are also been incorporated for better understanding.
  
  Lab Activities on Day-3:
 
-Using NGspice simulator, CMOS inverter is created and input and output characteristics are studied. Also by varying channel width of PMOS, better switching threshold is obtained.
+     Using NGspice simulator, CMOS inverter is created and input and output characteristics are studied. Also by varying channel width of PMOS, better switching threshold is obtained.
 
 D3SK1 - MCQ5-7  
 ![](day-3/1.PNG)
@@ -121,7 +121,7 @@ D3SK3 - MCQ5
 3. Clock tree synthesis and signal Integrity
 4. Timing analysis with real clocks
 
-Usage of delay Tables, setup Timing Analysis, hold Timing Analysis, clock Jitter & uncertainities, clock tree routing and buffering using H tree algorithm, crosstalk and clock net shielding improve the design towards the practical senario.
+Usage of delay Tables and considering setup Timing Analysis, hold Timing Analysis, clock Jitter & uncertainities, clock tree routing and buffering using H tree algorithm, crosstalk and clock net shielding improve the design more towards the practical senario.
 
 Lab Activities on Day-4:
 
