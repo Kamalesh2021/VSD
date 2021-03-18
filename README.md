@@ -72,7 +72,8 @@ In this day of workshop different aspects of CMOS fabrication models i.e. format
  
  Lab Activities on Day-3:
 
-     Using NGspice simulator, CMOS inverter is created and input and output characteristics are studied. Also by varying channel width of PMOS, better switching threshold is obtained.
+Using NGspice simulator, CMOS inverter is created and input and output characteristics are studied. 
+Also by varying channel width of PMOS, better switching threshold is obtained.
 
 D3SK1 - MCQ5-7  
 ![](day-3/1.PNG)
