@@ -66,7 +66,11 @@ D2SK4 - MCQ5
 3. Magic and post layout simulation
 4. Inception of layout- CMOS fabrication model
 
-Lab Activities on Day-3:
+Modelling of PMOS and NMOS for a CMOS inverter using NGSPICE is disussed where output for different values of width to length ratio of channel and load capacitance
+were studied. Layout with only stick diagram leads to inefficient routing and may cause violation of DRC rules. So euler's path is used along with stick diagram for effiient layout. Concepts regarding cript to create layout in Magic ,final layout and input/output labelling and post layout ngspice simulation are also discussed briefly.
+In this day of workshop different aspects of CMOS fabrication models i.e.  formation of N well and P well, formation of gate terminal, lightly doped drain (LDD) formation, source drain formation, local interconnect formation, higher level metal formation etc are also been incorporated for better understanding.
+ 
+ Lab Activities on Day-3:
 
 Using NGspice simulator, CMOS inverter is created and input and output characteristics are studied. Also by varying channel width of PMOS, better switching threshold is obtained.
 
