@@ -121,6 +121,8 @@ D3SK3 - MCQ5
 3. Clock tree synthesis and signal Integrity
 4. Timing analysis with real clocks
 
+Usage of delay Tables, setup Timing Analysis, hold Timing Analysis, clock Jitter & uncertainities, clock tree routing and buffering using H tree algorithm, crosstalk and clock net shielding improve the design towards the practical senario.
+
 Lab Activities on Day-4:
 
 In NGspice model input rise slew and output rise delay with capacitive load 10fF and 20fF are measured.
@@ -161,6 +163,9 @@ D4SK4 - MCQ5
 1. Routing and DRC (Design Rule Check)
 2. PNR Interactive Flow Tutorial
 
+Maze routing (Lee's algorithm) uses grid to connect source and target in a efficient way.
+Various DRC specifications, IEEE 1481-1999 SPEF fomat, placement and pre layout STA, routing and post-route STA were also analysed in this day of workshop.
+
 Lab Activities on Day-5:
 
 Routing is done in Qflow manager and then we compare pre-layout and post-layout frequencies and it is found that there is a drop of frequency for post-layout due to parasitics. 
@@ -173,6 +178,7 @@ D5SK1 - MCQ1-3
 
 
 
-
+# Acknowledgement
+Kunal Ghosh , Co-founder (VSD Corp. Pvt. Ltd).
 
 
