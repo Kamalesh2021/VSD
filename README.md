@@ -4,19 +4,19 @@
 3. RIC-V based SoC reference design
 4. Introduction to open source EDA tools
 
-     Here we studied design of QFN-48, which stands for Quad Flat No leads with 48 ports and dimension of 7nm*7nm.
+Here we studied design of QFN-48, which stands for Quad Flat No leads with 48 ports and dimension of 7nm*7nm.
 Using RISC-V architecture and then HDL (Hardware Description Language) specifications incorporated in assembly language is implemented in layout to realise the hardware.
 
-     Different open source EDA tools are available for IC design and simulation.
+Different open source EDA tools are available for IC design and simulation.
 Virtual Box is needed to install Linux OS on Windows so that you can install all these necessary Open Source EDA tools.
-1. Logic Synthesis - Yosys Open Synthesis Suite 
-2. Floorplanning and Placement - Graywolf
-3. CTS (Clock Tree Synthesis) -  Graywolf
-4. Routing - QRouter
-5. STA( Static Timing Analysis )- Opentimer
-6. Layout - Magic-Layout Viewr
-7. Pre-layout and Post-layout spice simulations - Ngspice
-8. Schematic Editor - eSim
+   1. Logic Synthesis - Yosys Open Synthesis Suite 
+   2. Floorplanning and Placement - Graywolf
+   3. CTS (Clock Tree Synthesis) -  Graywolf
+   4. Routing - QRouter
+   5. STA( Static Timing Analysis )- Opentimer
+   6. Layout - Magic-Layout Viewr
+   7. Pre-layout and Post-layout spice simulations - Ngspice
+   8. Schematic Editor - eSim
 
 
 Lab Activities on Day-1:
